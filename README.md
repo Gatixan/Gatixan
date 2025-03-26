@@ -28,4 +28,4 @@ I prefer to keep my space comfortable, so if any of these apply to you, please *
 - You try to police or dictate how others experience their identity, mental health, or interests.  
 - You act entitled to my time, attention, or explanations.  
 - You expect me to tolerate toxicity for the sake of “debate."
-- Needless to mention, proshippers, bigots, zionists, etc... stay away.
+- Needless to mention, proshippers, bigots, zionists, endogenic “systems” etc... stay away.
