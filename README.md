@@ -9,19 +9,21 @@
   </p>
 </h2>
 
-<img src="https://file.garden/ZK4cpCacLGUL75Nl/saturn.gif" width="250" align="left">
+<img src="https://file.garden/ZK4cpCacLGUL75Nl/saturn.gif" width="300" align="left">
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 &nbsp;&nbsp;&nbsp;&nbsp; - If you don't know who's fronting or don't want to ask, you can call us <b>Two, 206 or Xan.</b><br>
+<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - <b>18 years old</b>, we collectively identify as a man, <b>He/It</b> works fine in most instances. <br>
+<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - We're pretty blunt sometimes, don't take that as us not wanting to interact.<br>
+<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - We have pretty **severe memory issues** and sometimes we may not remember you or <br>
 &nbsp;&nbsp;&nbsp;&nbsp; previous conversations, try re-introducing yourself. <br>
+<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - Happily taken by our [partner system](https://github.com/dirkuu), if you see us around, we're usually with them.<br>
+<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - **Friends, unfriends and hides** happen per our discretion.<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - **Discord** is for those that have grown close enough to need it.
-
-<br clear="all">
 
 ---
 
@@ -29,15 +31,20 @@
 -------------------------------------------------------------------------------
 I prefer to keep my space comfortable, so if any of these apply to you, please **don’t interact:**  
 
-- **You’re judgmental, passive-aggressive, or mean-spirited AND treat strangers poorly** just because they’re not part of your circle. If you get joy from putting others down, just don’t.  
+ - **You’re judgmental, passive-aggressive, or mean-spirited AND treat strangers poorly** just because they’re not part of your circle. 
+  
 - **You thrive on online drama, petty fights, or pointless “callouts.”** I don’t care who’s “canceled” this week — I won’t get involved, and I don’t want to hear about it.  
+
 - **You police how others experience their identity, mental health, or interests.** If you think it’s your job to tell people how they should exist, you’re wrong.
   - **This includes people who invalidate, fakeclaim, or dislike systems.** Especially if you don’t have a dissociative disorder but still feel entitled to decide which systems are "real" or "acceptable."   
+
 - **You expect me to tolerate toxicity for the sake of “debate.”** I’m not here to entertain bad-faith arguments or have my boundaries tested like a game.  
-- **You are/support proshippers, bigots, Zionists, or endogenic “systems.”** Just leave.
+
+- **You are/support proshippers, bigots, zionists, or endogenic “systems.”** Just leave.
 
 ---
 ## <p align=center> LINKS </p>
+---
 <table align="center">
   <tr>
     <td><b>ART PAGES</b></td>
@@ -57,3 +64,19 @@ I prefer to keep my space comfortable, so if any of these apply to you, please *
 #### <p align=center> [Strawpage](https://gatixan.straw.page) || [Atabook](https://gatixan.atabook.org)
 
 *<p align=center>* ![TREK](https://file.garden/ZK4cpCacLGUL75Nl/trek.gif) </p>
+
+*<p align=center>*![](https://file.garden/ZK4cpCacLGUL75Nl/z35.gif)
+![](https://file.garden/ZK4cpCacLGUL75Nl/y39.gif)
+![](https://file.garden/ZK4cpCacLGUL75Nl/x23.gif)
+![](https://file.garden/ZK4cpCacLGUL75Nl/v1.gif)
+![](https://file.garden/ZK4cpCacLGUL75Nl/l15.gif)
+![](https://file.garden/ZK4cpCacLGUL75Nl/k27.gif)
+![](https://file.garden/ZK4cpCacLGUL75Nl/a60.gif)
+![](https://file.garden/ZK4cpCacLGUL75Nl/a45.jpg)
+![](https://file.garden/ZK4cpCacLGUL75Nl/a83.gif)
+![](https://file.garden/ZK4cpCacLGUL75Nl/a1.gif)
+![](https://file.garden/ZK4cpCacLGUL75Nl/b45.gif)
+![](https://file.garden/ZK4cpCacLGUL75Nl/d66.png)
+![](https://file.garden/ZK4cpCacLGUL75Nl/Hal9000)
+![](https://file.garden/ZK4cpCacLGUL75Nl/sourceofprogress.png)</p>
+
