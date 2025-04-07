@@ -12,11 +12,12 @@
 <img src="https://file.garden/ZK4cpCacLGUL75Nl/saturn.gif" width="250" align="left">
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-&nbsp;&nbsp;&nbsp;&nbsp; - If you don't know who's fronting or don't want to ask, you can usually call us <b>Two, 206 or Xan.</b><br>
+&nbsp;&nbsp;&nbsp;&nbsp; - If you don't know who's fronting or don't want to ask, you can call us <b>Two, 206 or Xan.</b><br>
 &nbsp;&nbsp;&nbsp;&nbsp; - <b>18 years old</b>, we collectively identify as a man, <b>He/It</b> works fine in most instances. <br>
 &nbsp;&nbsp;&nbsp;&nbsp; - We're pretty blunt sometimes, don't take that as us not wanting to interact.<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - We have pretty **severe memory issues** and sometimes we may not remember you or previous <br>
-&nbsp;&nbsp;&nbsp;&nbsp; conversations, there's not much that can be done other than re-introducing yourself. <br>
+&nbsp;&nbsp;&nbsp;&nbsp; - We have pretty **severe memory issues** and sometimes we may not remember you or <br>
+&nbsp;&nbsp;&nbsp;&nbsp; previous conversations, there's not much that can be done other than <br>
+&nbsp;&nbsp;&nbsp;&nbsp; re-introducing yourself. <br>
 &nbsp;&nbsp;&nbsp;&nbsp; - Happily taken by our [partner system](https://github.com/dirkuu), if you see us around, we're usually with them.<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - **Friends, unfriends and hides** happen per our discretion.<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - **Discord** is for those that have grown close enough to need it.
