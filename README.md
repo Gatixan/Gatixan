@@ -9,21 +9,24 @@
   </p>
 </h2>
 
-<img src="https://file.garden/ZK4cpCacLGUL75Nl/saturn.gif" width="300" align="left">
+*<p align=center>* ![HI](https://file.garden/ZK4cpCacLGUL75Nl/IMG_1398.gif)
+
+<img src="https://file.garden/ZK4cpCacLGUL75Nl/robotdance.gif" width="150" align="left">
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-&nbsp;&nbsp;&nbsp;&nbsp; - If you don't know who's fronting or don't want to ask, you can call us <b>Two, 206 or Xan.</b><br>
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - <b>18 years old</b>, we collectively identify as a man, <b>He/It</b> works fine in most instances. <br>
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - We're pretty blunt sometimes, don't take that as us not wanting to interact.<br>
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - We have pretty **severe memory issues** and sometimes we may not remember you or <br>
-&nbsp;&nbsp;&nbsp;&nbsp; previous conversations, try re-introducing yourself. <br>
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - Happily taken by our [partner system](https://github.com/dirkuu), if you see us around, we're usually with them.<br>
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - **Friends, unfriends and hides** happen per our discretion.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![ICON](https://file.garden/ZK4cpCacLGUL75Nl/Meat) Collectively, you can call us <b>Two, 206 or Xan.</b> He/It works fine in most instances.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![ICON](https://file.garden/ZK4cpCacLGUL75Nl/Meat) **Usually found on the 18+ server** in the **Homestuck area.** 18 years old.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![ICON](https://file.garden/ZK4cpCacLGUL75Nl/Meat)  **Happily taken by our [partner system](https://github.com/dirkuu),** if you see us around, we're usually with them.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![ICON](https://file.garden/ZK4cpCacLGUL75Nl/Meat) We have **severe memory issues** and may not remember you, try re-introducing yourself.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![ICON](https://file.garden/ZK4cpCacLGUL75Nl/Meat) **We're pretty blunt sometimes,** don't take that as us not wanting to interact.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![ICON](https://file.garden/ZK4cpCacLGUL75Nl/Meat) **Friends, unfriends and hides** happen per our discretion.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+<br clear="all">
+
+*<p align=center>* ![HI](https://file.garden/ZK4cpCacLGUL75Nl/IMG_1398.gif)
+
+<br clear="all">
 
 ---
 
