@@ -81,5 +81,7 @@ I prefer to keep my space comfortable, so if any of these apply to you, please *
 ![](https://file.garden/ZK4cpCacLGUL75Nl/b45.gif)
 ![](https://file.garden/ZK4cpCacLGUL75Nl/d66.png)
 ![](https://file.garden/ZK4cpCacLGUL75Nl/Hal9000)
-![](https://file.garden/ZK4cpCacLGUL75Nl/sourceofprogress.png)</p>
+![](https://file.garden/ZK4cpCacLGUL75Nl/sourceofprogress.png)<br>
+<br>
+![](https://komarev.com/ghpvc/?username=Gatixan)</p>
 
