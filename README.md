@@ -1,6 +1,9 @@
+
+### <p align=center> Go ahead and sign our: </p>
+#### <p align=center> [Strawpage](https://gatixan.straw.page) || [Atabook](https://gatixan.atabook.org)
+### <p align=center>![](https://komarev.com/ghpvc/?username=Gatixan&color=1d16f2)</p>
 *<p align=center>* ![ufo](https://file.garden/ZK4cpCacLGUL75Nl/ufobar.gif)
 ---
-
   # <p align=center>_Welcome, please read the information below._</p>
 
 <h2>
@@ -45,9 +48,9 @@ I prefer to keep my space comfortable, so if any of these apply to you, please *
 
 - **You are/support proshippers, bigots, zionists, or endogenic “systems.”** Just leave.
 
----
+<br>
+
 ## <p align=center> LINKS </p>
----
 <table align="center">
   <tr>
     <td><b>ART PAGES</b></td>
@@ -63,11 +66,8 @@ I prefer to keep my space comfortable, so if any of these apply to you, please *
 
 <p align=center><s>strawpage directory currently redirects to sollux's strawpage, the directory itself is still on WIP.</s></p>
 
-### <p align=center> Go ahead and sign our: </p>
-#### <p align=center> [Strawpage](https://gatixan.straw.page) || [Atabook](https://gatixan.atabook.org)
-
 *<p align=center>* ![TREK](https://file.garden/ZK4cpCacLGUL75Nl/trek.gif) </p>
-
+---
 *<p align=center>*![](https://file.garden/ZK4cpCacLGUL75Nl/z35.gif)
 ![](https://file.garden/ZK4cpCacLGUL75Nl/y39.gif)
 ![](https://file.garden/ZK4cpCacLGUL75Nl/x23.gif)
@@ -83,5 +83,5 @@ I prefer to keep my space comfortable, so if any of these apply to you, please *
 ![](https://file.garden/ZK4cpCacLGUL75Nl/Hal9000)
 ![](https://file.garden/ZK4cpCacLGUL75Nl/sourceofprogress.png)<br>
 <br>
-![](https://komarev.com/ghpvc/?username=Gatixan)</p>
+
 
