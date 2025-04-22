@@ -46,7 +46,7 @@ I prefer to keep my space comfortable, so if any of these apply to you, please *
 
 - **You expect me to tolerate toxicity for the sake of “debate.”** I’m not here to entertain bad-faith arguments or have my boundaries tested like a game.  
 
-- **You are/support proshippers, bigots, zionists, or endogenic “systems.”** Just leave.
+- **You are/support proshippers, mass-harassment campaigns/campaigners, bigots, zionists, or endogenic “systems.”** Just leave.
 
 <br>
 
