@@ -29,6 +29,9 @@
 <img src="https://file.garden/ZK4cpCacLGUL75Nl/ufobar.gif" width="500">
 </p>
 
+*<p align=center>*![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=photolatry&width=900&header_style=compact_stats_only&border_radius=5)</p>
+
+
 <hr>
 <h2>DNI (DO NOT INTERACT)</h2>
 <hr>
