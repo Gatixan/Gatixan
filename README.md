@@ -17,12 +17,11 @@
 <img src="https://file.garden/ZK4cpCacLGUL75Nl/robotdance.gif" width="150" align="left"> 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![ICON](https://file.garden/ZK4cpCacLGUL75Nl/Meat) Collectively, you can call me <b>Two, 206 or Xan.</b> Otherwise, <b>use the name & pronouns in my github status.</b><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![ICON](https://file.garden/ZK4cpCacLGUL75Nl/Meat) You can call me <b>Two, 206 or Xan.</b> Otherwise, <b>use the name & pronouns in my github status.</b><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![ICON](https://file.garden/ZK4cpCacLGUL75Nl/Meat) **Usually found on the 18+ server** in the **Homestuck area.** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![ICON](https://file.garden/ZK4cpCacLGUL75Nl/Meat)  **Happily taken by our [partner system](https://github.com/dirkuu),** if you see us around, we're usually with them.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![ICON](https://file.garden/ZK4cpCacLGUL75Nl/Meat) We have **severe memory issues** and may not remember you. If that happens, try re-introducing yourself.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![ICON](https://file.garden/ZK4cpCacLGUL75Nl/Meat) I have **severe memory issues** and may not remember you. **Remind me when possible.**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![ICON](https://file.garden/ZK4cpCacLGUL75Nl/Meat) **I'm pretty interaction-friendly.** You can sit with me without asking.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![ICON](https://file.garden/ZK4cpCacLGUL75Nl/Meat) **Friends, unfriends and hides** happen per my discretion. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![ICON](https://file.garden/ZK4cpCacLGUL75Nl/Meat) Using my skins as **inspiration** is ok, **copying** them isn't. <br>
 
 <br clear="all">
