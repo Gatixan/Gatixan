@@ -97,8 +97,6 @@
   </tr>
 </table>
 
-<p align=center><s>strawpage directory currently redirects to sollux's strawpage, the directory itself is still on WIP.</s></p>
-
 <br>
 
 *<p align=center>*![](https://file.garden/ZK4cpCacLGUL75Nl/z35.gif)
