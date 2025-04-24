@@ -92,8 +92,8 @@
   </tr>
   <tr>
     <td><b>PERSONAL PAGES</b></td>
-    <td><a href="https://rentry.co/twoosix">Rentry Directory</a></td>
-    <td><a href="https://https://gatixan.straw.page">Strawpage Directory</a></td>
+    <td><a href="https://rentry.co/haldirkuu">Hal's Rentry</a></td>
+    <td><a href="https://https://gatixan.straw.page">Sollux's Strawpage</a></td>
   </tr>
 </table>
 
