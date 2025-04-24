@@ -1,10 +1,10 @@
 <p align="center">
   <img src="https://file.garden/ZK4cpCacLGUL75Nl/trek.gif" alt="TREK"><br>
   <br>
-  <img src="https://file.garden/ZK4cpCacLGUL75Nl/Top" width="220"><br>
+  <img src="https://file.garden/ZK4cpCacLGUL75Nl/Top" width="220" height="30"><br>
   <strong>Go ahead and sign our:</strong><br>
   <a href="https://gatixan.straw.page">Strawpage</a> || <a href="https://gatixan.atabook.org">Atabook</a><br>
-  <img src="https://file.garden/ZK4cpCacLGUL75Nl/Bottom" width="220"><br><br>
+  <img src="https://file.garden/ZK4cpCacLGUL75Nl/Bottom" width="220" height="30"><br><br>
   <img src="https://komarev.com/ghpvc/?username=Gatixan&label=Spaceship+Crewmates&style=plastic&color=ff0000" alt="SPACESHIP CREWMATES"><br>
 </p>
 
@@ -17,12 +17,13 @@
 <img src="https://file.garden/ZK4cpCacLGUL75Nl/robotdance.gif" width="150" align="left"> 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![ICON](https://file.garden/ZK4cpCacLGUL75Nl/Meat) Collectively, you can call us <b>Two, 206 or Xan.</b> He/It works fine in most instances.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![ICON](https://file.garden/ZK4cpCacLGUL75Nl/Meat) **Usually found on the 18+ server** in the **Homestuck area.** 18 years old.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![ICON](https://file.garden/ZK4cpCacLGUL75Nl/Meat) Collectively, you can call me <b>Two, 206 or Xan.</b> Otherwise, <b>use the name & pronouns in my github status.</b><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![ICON](https://file.garden/ZK4cpCacLGUL75Nl/Meat) **Usually found on the 18+ server** in the **Homestuck area.** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![ICON](https://file.garden/ZK4cpCacLGUL75Nl/Meat)  **Happily taken by our [partner system](https://github.com/dirkuu),** if you see us around, we're usually with them.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![ICON](https://file.garden/ZK4cpCacLGUL75Nl/Meat) We have **severe memory issues** and may not remember you, try re-introducing yourself.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![ICON](https://file.garden/ZK4cpCacLGUL75Nl/Meat) **We're pretty blunt sometimes,** don't take that as us not wanting to interact.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![ICON](https://file.garden/ZK4cpCacLGUL75Nl/Meat) **Friends, unfriends and hides** happen per our discretion.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![ICON](https://file.garden/ZK4cpCacLGUL75Nl/Meat) We have **severe memory issues** and may not remember you. If that happens, try re-introducing yourself.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![ICON](https://file.garden/ZK4cpCacLGUL75Nl/Meat) **I'm pretty interaction-friendly.** You can sit with me without asking.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![ICON](https://file.garden/ZK4cpCacLGUL75Nl/Meat) **Friends, unfriends and hides** happen per my discretion. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![ICON](https://file.garden/ZK4cpCacLGUL75Nl/Meat) Using my skins as **inspiration** is ok, **copying** them isn't. <br>
 
 <br clear="all">
 <p align=center>
