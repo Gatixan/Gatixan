@@ -3,7 +3,7 @@
   <br>
   <img src="https://file.garden/ZK4cpCacLGUL75Nl/Top" width="220" height="30"><br>
   <strong>Go ahead and sign our:</strong><br>
-  <a href="https://gatixan.straw.page">Strawpage</a> || <a href="https://gatixan.atabook.org">Atabook</a><br>
+  <a href="https://halexe.straw.page">Strawpage</a> || <a href="https://gatixan.atabook.org">Atabook</a><br>
   <img src="https://file.garden/ZK4cpCacLGUL75Nl/Bottom" width="220" height="30"><br><br>
   <img src="https://komarev.com/ghpvc/?username=Gatixan&label=Spaceship+Crewmates&style=plastic&color=ff0000" alt="SPACESHIP CREWMATES"><br>
 </p>
@@ -96,7 +96,7 @@
   <tr>
     <td><b>PERSONAL PAGES</b></td>
     <td><a href="https://rentry.co/haldirkuu">Hal's Rentry</a></td>
-    <td><a href="https://https://gatixan.straw.page">Sollux's Strawpage</a></td>
+    <td><a href="https://gatixan.straw.page">Sollux's Strawpage</a></td>
   </tr>
 </table>
 
