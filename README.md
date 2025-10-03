@@ -9,17 +9,17 @@
 <table align="center">
  <tr>
    <td><b>GUESTBOOKS</b></td>
-   <td><a href="halexe.straw.page">Strawpage</a></td>
-   <td><a href="https://gatixan.atabook.org">Atabook</a></td>
+   <td><a href="halexe.straw.page">strawpage</a></td>
+   <td><a href="https://gatixan.atabook.org">atabook</a></td>
  <tr>
     <td><b>ART PAGES</b></td>
-    <td><a href="https://tumblr.com/gatixan">Tumblr</a></td>
-    <td><a href="https://twitter.com/gatixan">Twitter</a></td>
+    <td><a href="https://tumblr.com/gatixan">tumblr</a></td>
+    <td><a href="https://twitter.com/gatixan">twitter</a></td>
   </tr>
   <tr>
     <td><b>PERSONAL PAGES</b></td>
-    <td><a href="https://rentry.co/haldirkuu">Hal's Rentry</a></td>
-    <td><a href="https://gatixan.straw.page">Sollux's Strawpage</a></td>
+    <td><a href="https://rentry.co/haldirkuu">hals rentry</a></td>
+    <td><a href="https://gatixan.straw.page">solluxs strawpage</a></td>
   </tr>
 </table>
   </p>
