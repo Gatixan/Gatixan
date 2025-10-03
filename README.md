@@ -1,94 +1,17 @@
-<p align="center">
-  <img src="https://file.garden/ZK4cpCacLGUL75Nl/trek.gif" alt="TREK"><br>
-  <br>
-  <img src="https://file.garden/ZK4cpCacLGUL75Nl/Top" width="220" height="30"><br>
-  <strong>Go ahead and sign our:</strong><br>
-  <a href="https://halexe.straw.page">Strawpage</a> || <a href="https://gatixan.atabook.org">Atabook</a><br>
-  <img src="https://file.garden/ZK4cpCacLGUL75Nl/Bottom" width="220" height="30"><br><br>
-  <img src="https://komarev.com/ghpvc/?username=Gatixan&label=Spaceship+Crewmates&style=plastic&color=ff0000" alt="SPACESHIP CREWMATES"><br>
-</p>
 
 <hr>
-<h2 align="right"><b>WELCOME TO GALAXY 206.</b></h2>
 <hr>
 
-*<p align=center>* [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=syzapar9fkwrrwc8n81shqmo1&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=e32400&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-<img src="https://file.garden/ZK4cpCacLGUL75Nl/robotdance.gif" width="150" align="left"> 
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![ICON](https://file.garden/ZK4cpCacLGUL75Nl/Meat) You can call me <b>Two, 206 or Xan.</b> Otherwise, <b>use the name & pronouns in my github status.</b><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![ICON](https://file.garden/ZK4cpCacLGUL75Nl/Meat) **Usually found on the 18+ server** in the **Homestuck area.** <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![ICON](https://file.garden/ZK4cpCacLGUL75Nl/Meat)  **Happily taken by our [partner system](https://github.com/dirkuu),** if you see us around, we're usually with them.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![ICON](https://file.garden/ZK4cpCacLGUL75Nl/Meat) I have **severe memory issues** and may not remember you. **Remind me when possible.**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![ICON](https://file.garden/ZK4cpCacLGUL75Nl/Meat) **I'm pretty interaction-friendly.** You can sit with me without asking.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![ICON](https://file.garden/ZK4cpCacLGUL75Nl/Meat) Using my skins as **inspiration** is ok, **copying** them isn't. <br>
-
-<br clear="all">
-<p align=center>
-<img src="https://file.garden/ZK4cpCacLGUL75Nl/ufobar.gif" width="500">
-</p>
-
-*<p align=center>*![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=photolatry&width=800&header_style=compact_stats_only&border_radius=5)</p>
-
-
-<hr>
-<h2>DNI (DO NOT INTERACT)</h2>
-<hr>
-  I avoid drama, so if any of these apply to you, <strong>please don’t talk to me:</strong><br>
-<br>
-
-<details>
-<summary>You thrive on <strong>online drama, petty fights, or pointless “callouts.”</strong></summary>
-  
-  <br>
-  
-    • I don’t care who’s “canceled” this week. Don't involve me in it.
-      ◦ I dislike mass-harassment campaigns/campaigners, and I don’t want to hear about it.
-      
-    • This also applies to judgmental, passive-aggressive, or mean-spirited people.
-    
-</details>
-
-<details>
-<summary> You police how others experience their <strong>identity, mental health, or interests.</strong></summary>
-  
-  <br>
-  
-    • This includes people who invalidate, fakeclaim, or dislike systems.
-      ◦ If you haven't read a single book on the subject, I don't trust you to decide
-      which systems are "real" or "acceptable."
-      ◦ If you think it’s your job to tell people how they should exist, you’re probably annoying.
-      
-</details>
-
-<details>
-<summary> You are part of/support the <strong>following list of movements / things.</strong></summary>
-  
-  <br>
-  
-    • Racism / Xenophobia
-      ◦  Zionism, Antisemitism, Islamophobia, Racism, Neonazism, White supremacy, etc.
-      
-    • Exclusionism
-      ◦ TERF, SWERF, Transmedicalism, Aphobia/Biphobia/Any kind of identity-exclusionist -phobia, LGB, etc.
-      
-    • Apoliticism
-      ◦ Mostly if you whine about people discussing politics, if you're just living your life minding your
-        own business I don't really care.
-      
-    • Anti-Intellectualism / Anti-Science movements
-     ◦ Endogenic "Plurality," Trans-disabled, Anti-recovery, HRT fearmongerers and Delusion Enablers.
-     
-</details>
-
-<br>
-
-<hr>
-<h2><p align=center> LINKS </p></h2>
-<hr>
+*<p align=center>* ![](https://komarev.com/ghpvc/?username=Gatixan&style=plastic&color=e00707&label=peep+counter) 
+*<p align=center>* [Discord](https://discord.gg/D8NmgD5v8Q) | [Art Credit](https://fruitegg.tumblr.com)<br>
+*<p align=center>* <img src="https://file.garden/ZK4cpCacLGUL75Nl/sbahj" width="100" align="center"> <br>
+<h3>
 <table align="center">
-  <tr>
+ <tr>
+   <td><b>GUESTBOOKS</b></td>
+   <td><a href="halexe.straw.page">Strawpage</a></td>
+   <td><a href="https://gatixan.atabook.org">Atabook</a></td>
+ <tr>
     <td><b>ART PAGES</b></td>
     <td><a href="https://tumblr.com/gatixan">Tumblr</a></td>
     <td><a href="https://twitter.com/gatixan">Twitter</a></td>
@@ -99,27 +22,99 @@
     <td><a href="https://gatixan.straw.page">Sollux's Strawpage</a></td>
   </tr>
 </table>
+  </p>
+</h3>
 
+<hr>
+<hr>
+<br>
+<p align=center> <img src="https://file.garden/ZK4cpCacLGUL75Nl/welcom.jpg" width="500" align="center">
+  
+*<p align=center>* [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=syzapar9fkwrrwc8n81shqmo1&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=e32400&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+<img src="https://file.garden/ZK4cpCacLGUL75Nl/bathroom.png" width="400" height="500" align="left">
+
+&nbsp;&nbsp;&nbsp;&nbsp; <p align=center> **==> ABOUT ME <==**
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![ICON](https://file.garden/ZK4cpCacLGUL75Nl/daveicon.gif) **18+ server** regular in the **homestuck area**       
+&nbsp;&nbsp;&nbsp;&nbsp; ![ICON](https://file.garden/ZK4cpCacLGUL75Nl/daveicon.gif) **happily taken** by [this dude](https://github.com/dirkuu)      
+&nbsp;&nbsp;&nbsp;&nbsp; ![ICON](https://file.garden/ZK4cpCacLGUL75Nl/daveicon.gif) **did system** w memory issues if i dont remember you thats why            
+&nbsp;&nbsp;&nbsp;&nbsp; ![ICON](https://file.garden/ZK4cpCacLGUL75Nl/daveicon.gif) **feel free to interact** if youre not weird or gross         
+&nbsp;&nbsp;&nbsp;&nbsp; ![ICON](https://file.garden/ZK4cpCacLGUL75Nl/daveicon.gif) **im not my source** im just a guy so treat me like anyone else     
+&nbsp;&nbsp;&nbsp;&nbsp; ![ICON](https://file.garden/ZK4cpCacLGUL75Nl/daveicon.gif) **i post art** on tumblr and twitter             
+&nbsp;&nbsp;&nbsp;&nbsp; ![ICON](https://file.garden/ZK4cpCacLGUL75Nl/daveicon.gif) **check my status for front & pronouns**       
+&nbsp;&nbsp;&nbsp;&nbsp;
+*<p align=center>* <img src="https://file.garden/ZK4cpCacLGUL75Nl/awyeahbitches.gif" width="350" align="center">
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+*<p align=left>* <img src="https://file.garden/ZK4cpCacLGUL75Nl/Pieceofshit.webp" width="200"><img src="https://file.garden/ZK4cpCacLGUL75Nl/Pieceofshit.webp" width="200"><img src="https://file.garden/ZK4cpCacLGUL75Nl/Pieceofshit.webp" width="200">
+<br clear="all">
+
+<img src="https://file.garden/ZK4cpCacLGUL75Nl/ecocnomy.png" width="400" align="right">
+
+*<p align=center>* **==> DO NOT INTERACT <==**<br>
+*<p align=left>* idgaf about drama and i block freely but, to avoid wasting my time or yours, if any of these apply to you <strong>don’t talk to me:</strong><br>
+*<p align=center>* *(click on the arrows to see the dropdown)*
+<br>
 <br>
 
-*<p align=center>*![](https://file.garden/ZK4cpCacLGUL75Nl/z35.gif)
-![](https://file.garden/ZK4cpCacLGUL75Nl/y39.gif)
-![](https://file.garden/ZK4cpCacLGUL75Nl/x23.gif)</p>
+<details>
+<summary>you thrive on <strong>online drama, petty fights, or pointless “callouts”</strong></summary>
+  
+  <br>
+  
+    • i dont care whos “canceled” this week. dont involve me in it.
+      ◦ i dislike mass-harassment campaigns/campaigners and i dont want to hear about it
+      
+    • this also applies to judgmental, passive-aggressive, or mean-spirited people
+    
+</details>
 
-*<p align=center>*![](https://file.garden/ZK4cpCacLGUL75Nl/l15.gif)
-![](https://file.garden/ZK4cpCacLGUL75Nl/k27.gif)
-![](https://file.garden/ZK4cpCacLGUL75Nl/v1.gif)</p>
+<details>
+<summary> you police how others experience their <strong>identity, mental health, or interests </strong></summary>
+  
+  <br>
+  
+    • this includes people who invalidate fakeclaim or dislike systems without basis
+      ◦ if you havent read a single book on the subject i dont trust you to decide
+      which systems are "real" or "acceptable"
+      ◦ if you think it’s your job to tell people how they should exist youre probably annoying
+      
+</details>
 
-*<p align=center>*![](https://file.garden/ZK4cpCacLGUL75Nl/b45.gif)
-![](https://file.garden/ZK4cpCacLGUL75Nl/d66.png)
-![](https://file.garden/ZK4cpCacLGUL75Nl/Hal9000)
-![](https://file.garden/ZK4cpCacLGUL75Nl/sourceofprogress.png)</p>
+<details>
+<summary> you are part of/support the <strong>following list of movements / things</strong></summary>
+  
+  <br>
+  
+    • racism / xenophobia
+      ◦  zionism, antisemitism, islamophobia, racism, neonazism, white supremacy, etc.
+      
+    • exclusionism
+      ◦ TERF, SWERF, transmedicalism, aphobia/biphobia/any kind of identity-exclusionist -phobia, LGB, etc.
+      
+    • apoliticism
+      ◦ mostly if you whine about people discussing politics like a baby if youre just living your life minding your
+        own business i dont really care
+      
+    • anti-intellectualism / anti-science movements
+     ◦ endogenic "plurality," trans-disabled, anti-recovery, HRT fearmongerers and delusion enablers.
+  </details>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-*<p align=center>*![](https://file.garden/ZK4cpCacLGUL75Nl/a60.gif)
-![](https://file.garden/ZK4cpCacLGUL75Nl/a45.jpg)
-![](https://file.garden/ZK4cpCacLGUL75Nl/a83.gif)
-![](https://file.garden/ZK4cpCacLGUL75Nl/a1.gif)</p>
+<br clear="all">
 
-<br>
+*<p align=center>* <img src="https://file.garden/ZK4cpCacLGUL75Nl/41andolder" width="500" align="center">
 
----
+<hr>
+<hr>
+
+*<p align=center>* <img src="https://file.garden/ZK4cpCacLGUL75Nl/sbahj" width="100" align="center"> <br>
+
+*<p align=center>* ![dave](https://file.garden/ZK4cpCacLGUL75Nl/daveshine.gif) ![dave](https://file.garden/ZK4cpCacLGUL75Nl/didsomeone.gif)</p>
+*<p align=center>*  <img src="https://file.garden/ZK4cpCacLGUL75Nl/bumpin.gif" width="100"><img src="https://file.garden/ZK4cpCacLGUL75Nl/puppetassdrown.gif" width="100"><img src="https://file.garden/ZK4cpCacLGUL75Nl/puppetkiller.gif" width="100"> </p>
+
+<br clear="all">
+
+<hr>
+<hr>
