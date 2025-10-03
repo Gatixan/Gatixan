@@ -104,13 +104,8 @@
 
 <br clear="all">
 
-*<p align=center>* <img src="https://file.garden/ZK4cpCacLGUL75Nl/41andolder" width="500" align="center">
-
-<hr>
-<hr>
-
-*<p align=center>* <img src="https://file.garden/ZK4cpCacLGUL75Nl/sbahj" width="100" align="center"> <br>
-
+*<p align=center>* **==> RECENTLY PLAYED TRACKS <==** <br>
+*<p align=center>*![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=photolatry&width=500&header_style=compact_stats_only&border_radius=5)</p>
 *<p align=center>* ![dave](https://file.garden/ZK4cpCacLGUL75Nl/daveshine.gif) ![dave](https://file.garden/ZK4cpCacLGUL75Nl/didsomeone.gif)</p>
 *<p align=center>*  <img src="https://file.garden/ZK4cpCacLGUL75Nl/bumpin.gif" width="100"><img src="https://file.garden/ZK4cpCacLGUL75Nl/puppetassdrown.gif" width="100"><img src="https://file.garden/ZK4cpCacLGUL75Nl/puppetkiller.gif" width="100"> </p>
 
