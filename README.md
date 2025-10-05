@@ -1,4 +1,3 @@
-
 <hr>
 <hr>
 
@@ -32,10 +31,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp; <p align=center> **==> ABOUT ME <==**
 
 &nbsp;&nbsp;&nbsp;&nbsp; ![ICON](https://file.garden/ZK4cpCacLGUL75Nl/daveicon.gif) **18+ server** regular in the **homestuck area**       
-&nbsp;&nbsp;&nbsp;&nbsp; ![ICON](https://file.garden/ZK4cpCacLGUL75Nl/daveicon.gif) **happily taken** by [this dude](https://github.com/dirkuu)      
-&nbsp;&nbsp;&nbsp;&nbsp; ![ICON](https://file.garden/ZK4cpCacLGUL75Nl/daveicon.gif) **did system** w memory issues if i dont remember you thats why            
-&nbsp;&nbsp;&nbsp;&nbsp; ![ICON](https://file.garden/ZK4cpCacLGUL75Nl/daveicon.gif) **feel free to interact** if youre not weird or gross         
-&nbsp;&nbsp;&nbsp;&nbsp; ![ICON](https://file.garden/ZK4cpCacLGUL75Nl/daveicon.gif) **im not my source** im just a guy so treat me like anyone else     
+&nbsp;&nbsp;&nbsp;&nbsp; ![ICON](https://file.garden/ZK4cpCacLGUL75Nl/daveicon.gif) **sorry ladies im spoken for** by [this dude](https://github.com/dirkuu)                 
+&nbsp;&nbsp;&nbsp;&nbsp; ![ICON](https://file.garden/ZK4cpCacLGUL75Nl/daveicon.gif) **feel free to interact** if youre not a total wackjob     
 &nbsp;&nbsp;&nbsp;&nbsp; ![ICON](https://file.garden/ZK4cpCacLGUL75Nl/daveicon.gif) **i post art** on tumblr and twitter             
 &nbsp;&nbsp;&nbsp;&nbsp; ![ICON](https://file.garden/ZK4cpCacLGUL75Nl/daveicon.gif) **check my status for front & pronouns**       
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -48,53 +45,12 @@
 <img src="https://file.garden/ZK4cpCacLGUL75Nl/ecocnomy.png" width="400" align="right">
 
 *<p align=center>* **==> DO NOT INTERACT <==**<br>
-*<p align=left>* idgaf about drama and i block freely but, to avoid wasting my time or yours, if any of these apply to you <strong>don’t talk to me:</strong><br>
-*<p align=center>* *(click on the arrows to see the dropdown)*
-<br>
-<br>
+*<p align=left>* alright yeah lets just establish from the jump how dumb this whole thing is<br>
+were in a goddamn pony game populated by sweaty bronies and pimple-faced teen girls a dni list here is as useful as installing a screen door on a submarine made of wet tissue paper<br>
+if i dont like you ill just block you and move on with my majestic pixel horse life<br>
+but also if youre the kind of degenerate whose idea of a fun afternoon involves diddling yourself to whatever ethically questionable garbage floats by online<br>
+do us both a favor and gallop the hell in the opposite direction<br>
 
-<details>
-<summary>you thrive on <strong>online drama, petty fights, or pointless “callouts”</strong></summary>
-  
-  <br>
-  
-    • i dont care whos “canceled” this week. dont involve me in it.
-      ◦ i dislike mass-harassment campaigns/campaigners and i dont want to hear about it
-      
-    • this also applies to judgmental, passive-aggressive, or mean-spirited people
-    
-</details>
-
-<details>
-<summary> you police how others experience their <strong>identity, mental health, or interests </strong></summary>
-  
-  <br>
-  
-    • this includes people who invalidate fakeclaim or dislike systems without basis
-      ◦ if you havent read a single book on the subject i dont trust you to decide
-      which systems are "real" or "acceptable"
-      ◦ if you think it’s your job to tell people how they should exist youre probably annoying
-      
-</details>
-
-<details>
-<summary> you are part of/support the <strong>following list of movements / things</strong></summary>
-  
-  <br>
-  
-    • racism / xenophobia
-      ◦  zionism, antisemitism, islamophobia, racism, neonazism, white supremacy, etc.
-      
-    • exclusionism
-      ◦ TERF, SWERF, transmedicalism, aphobia/biphobia/any kind of identity-exclusionist -phobia, LGB, etc.
-      
-    • apoliticism
-      ◦ mostly if you whine about people discussing politics like a baby if youre just living your life minding your
-        own business i dont really care
-      
-    • anti-intellectualism / anti-science movements
-     ◦ endogenic "plurality," trans-disabled, anti-recovery, HRT fearmongerers and delusion enablers.
-  </details>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <br clear="all">
