@@ -2,14 +2,14 @@
 <hr>
 
 *<p align=center>* ![](https://komarev.com/ghpvc/?username=Gatixan&style=plastic&color=e00707&label=peep+counter) 
-*<p align=center>* [Discord](https://discord.gg/D8NmgD5v8Q) | [Art Credit](https://fruitegg.tumblr.com)<br>
+*<p align=center>* [Discord](https://discord.gg/D8NmgD5v8Q)
 *<p align=center>* <img src="https://file.garden/ZK4cpCacLGUL75Nl/sbahj" width="100" align="center"> <br>
 <h3>
 <table align="center">
  <tr>
    <td><b>GUESTBOOKS</b></td>
    <td><a href="halexe.straw.page">strawpage</a></td>
-   <td><a href="https://gatixan.atabook.org">atabook</a></td>
+   <td><a href="https://turnteched.atabook.org">atabook</a></td>
  <tr>
     <td><b>ART PAGES</b></td>
     <td><a href="https://tumblr.com/gatixan">tumblr</a></td>
