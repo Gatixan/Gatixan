@@ -16,11 +16,6 @@
     <td><a href="https://tumblr.com/gatixan">tumblr</a></td>
     <td><a href="https://twitter.com/gatixan">twitter</a></td>
   </tr>
-  <tr>
-    <td><b>PERSONAL PAGES</b></td>
-    <td><a href="https://rentry.co/haldirkuu">hals rentry</a></td>
-    <td><a href="https://gatixan.straw.page">solluxs strawpage</a></td>
-  </tr>
 </table>
   </p>
 </h3>
