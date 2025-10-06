@@ -26,7 +26,7 @@
   
 *<p align=center>* [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=syzapar9fkwrrwc8n81shqmo1&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=e32400&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-<img src="https://file.garden/ZK4cpCacLGUL75Nl/bathroom.png" width="400" height="500" align="left">
+<img src="https://file.garden/ZK4cpCacLGUL75Nl/bathroom.png" width="400" height="400" align="left">
 
 &nbsp;&nbsp;&nbsp;&nbsp; <p align=center> **==> ABOUT ME <==**
 
