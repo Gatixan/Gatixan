@@ -8,7 +8,7 @@
 <table align="center">
  <tr>
    <td><b>GUESTBOOKS</b></td>
-   <td><a href="halexe.straw.page">strawpage</a></td>
+   <td><a href="strawpage wip</a></td>
    <td><a href="https://turnteched.atabook.org">atabook</a></td>
  <tr>
     <td><b>ART PAGES</b></td>
