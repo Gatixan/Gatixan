@@ -39,7 +39,7 @@
 *<p align=center>* <img src="https://file.garden/ZK4cpCacLGUL75Nl/awyeahbitches.gif" width="350" align="center">
 
 &nbsp;&nbsp;&nbsp;&nbsp;
-*<p align=left>* <img src="https://file.garden/ZK4cpCacLGUL75Nl/Pieceofshit.webp" width="200"><img src="https://file.garden/ZK4cpCacLGUL75Nl/Pieceofshit.webp" width="200"><img src="https://file.garden/ZK4cpCacLGUL75Nl/Pieceofshit.webp" width="200">
+*<p align=left>*<img src="https://file.garden/ZK4cpCacLGUL75Nl/Pieceofshit.webp" width="200"><img src="https://file.garden/ZK4cpCacLGUL75Nl/Pieceofshit.webp" width="200"><img src="https://file.garden/ZK4cpCacLGUL75Nl/Pieceofshit.webp" width="200">
 <br clear="all">
 
 <img src="https://file.garden/ZK4cpCacLGUL75Nl/ecocnomy.png" width="400" align="right">
