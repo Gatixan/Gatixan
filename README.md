@@ -24,11 +24,11 @@
 <br>
 <p align=center> <img src="https://file.garden/ZK4cpCacLGUL75Nl/welcom.jpg" width="500" align="center">
   
-*<p align=center>* [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=syzapar9fkwrrwc8n81shqmo1&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=e32400&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+*<p align=center>* [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=syzapar9fkwrrwc8n81shqmo1&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000000&interchange=false&profanity=false&bar_color=ff2600&bar_color_cover=true&mode=light)](https://spotify-github-profile.kittinanx.com/api/view?uid=syzapar9fkwrrwc8n81shqmo1&redirect=true)
 
 <img src="https://file.garden/ZK4cpCacLGUL75Nl/bathroom.png" width="400" height="400" align="left">
 
-&nbsp;&nbsp;&nbsp;&nbsp; <p align=center> **==> ABOUT ME <==**
+<h3> &nbsp;&nbsp;&nbsp;&nbsp; <p align=center> ==> ABOUT ME <== </h3>
 
 &nbsp;&nbsp;&nbsp;&nbsp; ![ICON](https://file.garden/ZK4cpCacLGUL75Nl/daveicon.gif) **18+ server** regular in the **homestuck area**       
 &nbsp;&nbsp;&nbsp;&nbsp; ![ICON](https://file.garden/ZK4cpCacLGUL75Nl/daveicon.gif) **sorry ladies im spoken for** by [this dude](https://github.com/dirkuu)                 
@@ -45,8 +45,8 @@
 
 <img src="https://file.garden/ZK4cpCacLGUL75Nl/ecocnomy.png" width="400" align="right">
 
-*<p align=center>* **==> DO NOT INTERACT <==**<br>
-*<p align=left>* alright yeah lets just establish from the jump how dumb this whole thing is<br>
+<h3> <p align=center> ==> DO NOT INTERACT <== </h3><br>
+<p align=left> alright yeah lets just establish from the jump how dumb this whole thing is<br>
 were in a goddamn pony game populated by sweaty bronies and pimple-faced teen girls a dni list here is as useful as installing a screen door on a submarine made of wet tissue paper<br>
 if i dont like you ill just block you and move on with my majestic pixel horse life<br>
 but also if youre the kind of degenerate whose idea of a fun afternoon involves diddling yourself to whatever ethically questionable garbage floats by online<br>
