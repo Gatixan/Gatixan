@@ -40,7 +40,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 <br>
-*<p align=left>*<img src="https://file.garden/ZK4cpCacLGUL75Nl/Pieceofshit.webp" width="200"><img src="https://file.garden/ZK4cpCacLGUL75Nl/Pieceofshit.webp" width="200"><img src="https://file.garden/ZK4cpCacLGUL75Nl/Pieceofshit.webp" width="200">
+*<p align=center>*<img src="https://file.garden/ZK4cpCacLGUL75Nl/Pieceofshit.webp" width="200"><img src="https://file.garden/ZK4cpCacLGUL75Nl/Pieceofshit.webp" width="200"><img src="https://file.garden/ZK4cpCacLGUL75Nl/Pieceofshit.webp" width="200"><img src="https://file.garden/ZK4cpCacLGUL75Nl/Pieceofshit.webp" width="200">
 <br clear="all">
 
 <img src="https://file.garden/ZK4cpCacLGUL75Nl/ecocnomy.png" width="400" align="right">
@@ -56,7 +56,8 @@ do us both a favor and gallop the hell in the opposite direction<br>
 
 <br clear="all">
 
-*<p align=center>* **==> RECENTLY PLAYED TRACKS <==** <br>
+<h3><p align=center> ==> RECENTLY PLAYED TRACKS <== </h3><br>
+ 
 *<p align=center>*![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=photolatry&width=500&header_style=compact_stats_only&border_radius=5)</p>
 *<p align=center>* ![dave](https://file.garden/ZK4cpCacLGUL75Nl/daveshine.gif) ![dave](https://file.garden/ZK4cpCacLGUL75Nl/didsomeone.gif)</p>
 *<p align=center>*  <img src="https://file.garden/ZK4cpCacLGUL75Nl/bumpin.gif" width="100"><img src="https://file.garden/ZK4cpCacLGUL75Nl/puppetassdrown.gif" width="100"><img src="https://file.garden/ZK4cpCacLGUL75Nl/puppetkiller.gif" width="100"> </p>
